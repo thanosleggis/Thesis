@@ -1,1 +1,24 @@
+# Βαθιά μάθηση
+torch>=2.0
+torchvision
+tensorflow>=2.12
 
+# Ειδικές βιβλιοθήκες ΗΕΓ
+torcheeg>=1.1.0
+braindecode>=0.8
+mne>=1.5
+
+# Ερμηνευσιμότητα (XAI)
+captum>=0.6
+shap>=0.42
+lime>=0.2
+
+# Επιστημονικός υπολογισμός
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+
+# Οπτικοποίηση
+matplotlib>=3.7
+seaborn>=0.12
